@@ -1,4 +1,4 @@
-﻿<Document>
+<Document>
   # Desativação de bomba grande
   Então, você encontrou uma bomba grande e ela está apitando. Essas bombas demoram muito para detonar e abrem um grande buraco no casco. Continue lendo e ninguém explodirá.
 
@@ -29,7 +29,7 @@
   Para armar uma bomba, você pode [color=yellow]clicar com o botão direito[/color] e clicar em [color=yellow]Iniciar contagem regressiva[/click] ou [color=yellow]alt-click[/color] na bomba. Ele começará a apitar.
 
   ## Tempo
-  Uma bomba tem um tempo limitado, no mínimo 90 e no máximo 300. Você pode ver o cronômetro examinando-o, a menos que o fio Prosseguir seja cortado. Assim que o cronômetro chegar a zero, a bomba irá detonar.
+  Uma bomba tem um tempo limitado, no mínimo 90 e no máximo 300 segundos. Você pode ver o cronômetro examinando-o, a menos que o fio Prosseguir seja cortado. Assim que o cronômetro chegar a zero, a bomba irá detonar.
 
   ## Parafusos
   Por padrão, uma vez armada, uma bomba irá cair no chão. Você deve encontrar o fio do PARAFUSO e cortá-lo para desabilitar os parafusos, após o que você pode desapertá-lo e jogá-lo no espaço.
@@ -69,6 +69,6 @@
   - [color=red]Corte o fio[/color]: Cortar o fio desativará os parafusos, jogue-o no espaço!
   - [color=green]Consertar o fio[/color]: Remendar o fio reativará os parafusos.
 
-  [color=#a4885c]Fio fictício[/color]
+  [color=#a4885c]Fio Falso[/color]
   - Fios falsos não fazem nada. Você pode pulsar, cortar e consertá-los livremente e eles não afetarão a bomba de forma alguma.
 </Document>
